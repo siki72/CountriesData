@@ -1,1 +1,1 @@
-Excercies Data coutries from " from scratch"
+Excercie Data coutries from " from scratch"
